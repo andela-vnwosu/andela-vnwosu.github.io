@@ -21,4 +21,4 @@ Basic Knowledge of UNIX commands | install Bash if using windows
 CD to required folder | UNIX experience
 
 
-With this you are set   :+1:
+With this you are set   :+1: :+1: :-) ;-)
